@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Nguyễn Huy · Star
+# ✦ Thanh Huy · Star
 
 **Aspiring Full Stack Developer** · JavaScript Ecosystem  
 📍 Industrial University of Ho Chi Minh City (IUH)
@@ -54,14 +54,7 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=star-code1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=star-code1&theme=tokyonight&hide_border=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=star-code1&theme=tokyonight&hide_border=true&layout=compact)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=star-code1&icon=9&color=6" />
 </div>
