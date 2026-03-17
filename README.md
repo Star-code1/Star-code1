@@ -1,7 +1,13 @@
 # 💫 About Me:
-⭐I'm Star
+⭐ I'm Star
 <br><br>
-🏫 Sinh viên Đại học Công nghiệp TP.HCM (IUH).<br><br>⚡ Định hướng trở thành Full Stack Developer chuyên sâu về hệ sinh thái JavaScript.<br><br>🛠️ Thế mạnh: Xây dựng giao diện hiện đại với ReactJS và phát triển hệ thống Server-side với Node.js.<br><br>🎯 Mục tiêu: Tạo ra những ứng dụng Web có trải nghiệm người dùng tốt và khả năng mở rộng cao.
+🏫 A student at Industrial University of Ho Chi Minh City (IUH).
+<br><br>
+⚡ Aspiring to become a Full Stack Developer specializing in the JavaScript ecosystem.
+<br><br>
+🛠️ Strengths: Building modern user interfaces with ReactJS and developing server-side systems with Node.js.
+<br><br>
+🎯 Goal: To create web applications with excellent user experience and high scalability.
 
 
 ## 🌐 Socials:
