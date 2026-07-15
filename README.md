@@ -2,7 +2,7 @@
 
 # ✦ Thanh Huy · Star
 
-**Aspiring Full Stack Developer** · JavaScript Ecosystem  
+**Full Stack Developer** · JavaScript Ecosystem  
 📍 Industrial University of Ho Chi Minh City (IUH)
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/e67qtBS7)
