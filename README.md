@@ -73,14 +73,6 @@ I'm a Software Engineering student at **Industrial University of Ho Chi Minh Cit
 
 ---
 
-## 🏆 Achievement
-
-**Top 28 · Innogreen Life Competition · 2026**
-
-**CertchainIUH** — A blockchain-based diploma and certificate management system.
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
