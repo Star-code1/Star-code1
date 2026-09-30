@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Thanh Huy · Star
+# ✦ Thanh Huy · Star ✦
 
 **Frontend Developer**  
 Vue 3 · React · TypeScript · JavaScript Ecosystem
