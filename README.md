@@ -20,30 +20,13 @@ Vue 3 · React · TypeScript · JavaScript Ecosystem
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering student at **Industrial University of Ho Chi Minh City (IUH)** and a **Frontend Developer Intern at Quickom**.
+I'm a Software Engineering student at **Industrial University of Ho Chi Minh City (IUH)** .
 
-- 💼 Responsible for frontend development of the **IQ+ Admin Dashboard**.
 - 🎨 Building responsive interfaces with **Vue 3, TypeScript, Pug, Tailwind CSS, and Nuxt UI**.
 - 🔗 Integrating **GraphQL and REST APIs** into web and mobile applications.
 - 📱 Experienced in projects using **React and React Native**, and exploring **Flutter**.
 - 🌱 Growing toward full-stack development with **Node.js, Express.js, and MongoDB**.
 - 🤝 Working with business analysts and testers to clarify requirements and verify features.
-
----
-
-## 💼 Experience
-
-### Quickom · Frontend Developer Intern
-**Jul 2026 – Present**
-
-**IQ+ Admin Dashboard**
-
-- Developed the entire frontend for event, order, corporate, and user role management.
-- Designed and implemented responsive interfaces.
-- Integrated GraphQL APIs for dashboard data and management operations.
-- Collaborated with business analysts and testers on requirements and feature verification.
-
-**Stack:** Vue 3 · TypeScript · Pug · Tailwind CSS · Nuxt UI · GraphQL
 
 ---
 
