@@ -2,7 +2,7 @@
 
 # ✦ Thanh Huy · Star
 
-**Frontend Developer Intern @ Quickom**  
+**Frontend Developer**  
 Vue 3 · React · TypeScript · JavaScript Ecosystem
 
 🎓 Software Engineering @ IUH · 📍 Ho Chi Minh City, Vietnam
@@ -96,6 +96,6 @@ I'm a Software Engineering student at **Industrial University of Ho Chi Minh Cit
 <div align="center">
 
 **Let's connect and build something useful.**  
-[Email](mailto:StarIsCodin@gmail.com) · [LinkedIn](https://www.linkedin.com/in/huy-nguy%E1%BB%85n-34a230345/)
+[Email](mailto:StarIsCodin@gmail.com) · [LinkedIn](linkedin.com/in/huy-nguyễn-34a230345)
 
 </div>
