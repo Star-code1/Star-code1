@@ -85,17 +85,16 @@ I'm a Software Engineering student at **Industrial University of Ho Chi Minh Cit
 
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=star-code1&theme=tokyonight&hide_border=true)
+<img
+  src="https://streak-stats.demolab.com/?user=Star-code1&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=star-code1&theme=tokyonight&hide_border=true&layout=compact)
+<br />
 
-</div>
-
----
-
-<div align="center">
-
-**Let's connect and build something useful.**  
-[Email](mailto:StarIsCodin@gmail.com) · [LinkedIn](linkedin.com/in/huy-nguyễn-34a230345)
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Star-code1&theme=tokyonight&hide_border=true&layout=compact"
+  alt="Top Languages"
+/>
 
 </div>
